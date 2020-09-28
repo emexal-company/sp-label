@@ -1,0 +1,19 @@
+/**
+@license
+Copyright 2018 Google Inc. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+import { css } from 'lit-element';
+export default css `.spectrum-Label{--spectrum-label-colored-text-color: var(--spectrum-global-color-static-white);--spectrum-label-colored-gray-background-color: var(--spectrum-global-color-static-gray-700);--spectrum-label-colored-red-background-color: var(--spectrum-global-color-static-red-600);--spectrum-label-colored-orange-background-color: var(--spectrum-global-color-static-orange-600);--spectrum-label-colored-yellow-background-color: var(--spectrum-global-color-yellow-400);--spectrum-label-colored-seafoam-background-color: var(--spectrum-global-color-seafoam-400);--spectrum-label-colored-green-background-color: var(--spectrum-global-color-static-green-600);--spectrum-label-colored-blue-background-color: var(--spectrum-global-color-static-blue);--spectrum-label-colored-fuchsia-background-color: var(--spectrum-global-color-fuchsia-400)}.spectrum-Label{display:inline-block;position:relative;width:auto;padding:var(--spectrum-global-dimension-size-50) var(--spectrum-global-dimension-size-125);border-radius:var(--spectrum-global-dimension-size-50);font-size:var(--spectrum-global-dimension-size-150);line-height:var(--spectrum-global-font-line-height-medium, 1.5);cursor:default;-webkit-font-smoothing:subpixel-antialiased;-moz-osx-font-smoothing:auto;font-smoothing:subpixel-antialiased}.spectrum-Label--large{font-size:var(--spectrum-global-dimension-size-175);padding:var(--spectrum-global-dimension-size-100) var(--spectrum-global-dimension-size-150)}.spectrum-Label--small{font-size:var(--spectrum-global-dimension-font-size-50);padding:var(--spectrum-global-dimension-size-40) var(--spectrum-global-dimension-size-85)}.spectrum-Label{color:var(--spectrum-label-colored-text-color, var(--spectrum-global-color-static-white))}.spectrum-Label--inactive,.spectrum-Label--grey{background-color:var(--spectrum-label-colored-gray-background-color, var(--spectrum-global-color-static-gray-700))}.spectrum-Label--red{background-color:var(--spectrum-label-colored-red-background-color, var(--spectrum-global-color-static-red-600))}.spectrum-Label--orange,.spectrum-Label--or{background-color:var(--spectrum-label-colored-orange-background-color, var(--spectrum-global-color-static-orange-600))}.spectrum-Label--yellow{background-color:var(--spectrum-label-colored-yellow-background-color, var(--spectrum-global-color-yellow-400))}.spectrum-Label--seafoam{background-color:var(--spectrum-label-colored-seafoam-background-color, var(--spectrum-global-color-seafoam-400))}.spectrum-Label--green{background-color:var(--spectrum-label-colored-green-background-color, var(--spectrum-global-color-static-green-600))}.spectrum-Label--blue,.spectrum-Label--active,.spectrum-Label--and{background-color:var(--spectrum-label-colored-blue-background-color, var(--spectrum-global-color-static-blue))}.spectrum-Label--fuchsia{background-color:var(--spectrum-label-colored-fuchsia-background-color, var(--spectrum-global-color-fuchsia-400))}`;
+//# sourceMappingURL=label.styles.js.map
